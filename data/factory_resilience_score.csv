@@ -1,0 +1,2 @@
+factory_resilience_score,status,average_machine_risk_pct,high_risk_machine_ratio_pct,average_cascade_exposure_pct,average_oee_pct,estimated_downtime_exposure_hours,estimated_energy_waste_kwh,data_quality_score
+74.6,WATCH,31.14,20.0,26.92,90.95,74.74,676.52,100.0
