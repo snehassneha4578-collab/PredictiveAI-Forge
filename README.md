@@ -1,17 +1,8 @@
-﻿<p align="center">
-
-<a href="https://predictive-ai-forge.netlify.app">
-  <strong>🚀 LIVE DASHBOARD — OPEN PREDICTIVEAI FORGE</strong>
-</a>
-
-</p>
-
----
-\# âš¡ PREDICTIVEAI FORGE
+\# ⚡ PREDICTIVEAI FORGE
 
 
 
-\## ðŸ­ Industrial Decision Intelligence Platform
+\## 🏭 Industrial Decision Intelligence Platform
 
 
 
@@ -25,7 +16,7 @@
 
 <p align="center">
 
-&#x20; <strong>AI Prediction â€¢ Root-Cause Intelligence â€¢ Cascade Analysis â€¢ Counterfactual Simulation â€¢ Decision Verification</strong>
+&#x20; <strong>AI Prediction • Root-Cause Intelligence • Cascade Analysis • Counterfactual Simulation • Decision Verification</strong>
 
 </p>
 
@@ -49,7 +40,7 @@
 
 
 
-\## ðŸš€ What is PredictiveAI Forge?
+\## 🚀 What is PredictiveAI Forge?
 
 
 
@@ -81,39 +72,39 @@ PredictiveAI Forge explores:
 
 DATA
 
-&#x20; â†“
+&#x20; ↓
 
 INTELLIGENCE
 
-&#x20; â†“
+&#x20; ↓
 
 PREDICTION
 
-&#x20; â†“
+&#x20; ↓
 
 ROOT CAUSE
 
-&#x20; â†“
+&#x20; ↓
 
 DEPENDENCY
 
-&#x20; â†“
+&#x20; ↓
 
 CASCADE IMPACT
 
-&#x20; â†“
+&#x20; ↓
 
 WHAT-IF SIMULATION
 
-&#x20; â†“
+&#x20; ↓
 
 DECISION
 
-&#x20; â†“
+&#x20; ↓
 
 HUMAN APPROVAL
 
-&#x20; â†“
+&#x20; ↓
 
 VERIFICATION
 
@@ -125,7 +116,7 @@ VERIFICATION
 
 
 
-\# ðŸ“¸ Live Industrial Command Center
+\# 📸 Live Industrial Command Center
 
 
 
@@ -145,33 +136,33 @@ The command center combines factory-level intelligence into one operational inte
 
 
 
-\* ðŸ­ Executive Factory Pulse
+\* 🏭 Executive Factory Pulse
 
-\* ðŸ§  System Intelligence
+\* 🧠 System Intelligence
 
-\* âš™ï¸ Machine Command
+\* ⚙️ Machine Command
 
-\* ðŸ”´ Risk Distribution
+\* 🔴 Risk Distribution
 
-\* ðŸ›¡ï¸ Resilience Index
+\* 🛡️ Resilience Index
 
-\* ðŸ” Root-Cause Engine
+\* 🔍 Root-Cause Engine
 
-\* ðŸ•¸ï¸ Dependency \& Cascade Graph
+\* 🕸️ Dependency \& Cascade Graph
 
-\* ðŸ§ª Counterfactual Lab
+\* 🧪 Counterfactual Lab
 
-\* ðŸ“Š OEE Intelligence
+\* 📊 OEE Intelligence
 
-\* ðŸŒ± Sustainability Intelligence
+\* 🌱 Sustainability Intelligence
 
-\* ðŸ‘¤ Decision Center
+\* 👤 Decision Center
 
-\* âœ… Verification Center
+\* ✅ Verification Center
 
-\* ðŸ§¾ Decision Trace
+\* 🧾 Decision Trace
 
-\* âš¡ Live Event Feed
+\* ⚡ Live Event Feed
 
 
 
@@ -179,7 +170,7 @@ The command center combines factory-level intelligence into one operational inte
 
 
 
-\# ðŸ§© System Architecture
+\# 🧩 System Architecture
 
 
 
@@ -197,71 +188,71 @@ The platform connects industrial data, AI intelligence, simulation and decision 
 
 ```text
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚   FACTORY DATA        â”‚
+│   FACTORY DATA        │
 
-â”‚   TELEMETRY           â”‚
+│   TELEMETRY           │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚  AI INTELLIGENCE      â”‚
+│  AI INTELLIGENCE      │
 
-â”‚  RISK DETECTION       â”‚
+│  RISK DETECTION       │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚  ROOT-CAUSE ENGINE    â”‚
+│  ROOT-CAUSE ENGINE    │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚ DEPENDENCY + CASCADE  â”‚
+│ DEPENDENCY + CASCADE  │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚ COUNTERFACTUAL LAB    â”‚
+│ COUNTERFACTUAL LAB    │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚   DECISION CENTER     â”‚
+│   DECISION CENTER     │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚   HUMAN APPROVAL      â”‚
+│   HUMAN APPROVAL      │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────┬───────────┘
 
-&#x20;           â†“
+&#x20;           ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌───────────────────────┐
 
-â”‚     VERIFICATION      â”‚
+│     VERIFICATION      │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└───────────────────────┘
 
 ```
 
@@ -271,7 +262,7 @@ The platform connects industrial data, AI intelligence, simulation and decision 
 
 
 
-\# ðŸ”„ Intelligence Workflow
+\# 🔄 Intelligence Workflow
 
 
 
@@ -283,7 +274,7 @@ The platform connects industrial data, AI intelligence, simulation and decision 
 
 
 
-\## SENSE â†’ UNDERSTAND â†’ PREDICT â†’ EXPLAIN â†’ SIMULATE â†’ DECIDE â†’ VERIFY â†’ RECOVER
+\## SENSE → UNDERSTAND → PREDICT → EXPLAIN → SIMULATE → DECIDE → VERIFY → RECOVER
 
 
 
@@ -291,21 +282,21 @@ The platform connects industrial data, AI intelligence, simulation and decision 
 
 | ----------------- | ------------------------------------------- |
 
-| ðŸ‘ï¸ \*\*Sense\*\*     | Interpret machine and operational telemetry |
+| 👁️ \*\*Sense\*\*     | Interpret machine and operational telemetry |
 
-| ðŸ§  \*\*Understand\*\* | Build a system-level operational picture    |
+| 🧠 \*\*Understand\*\* | Build a system-level operational picture    |
 
-| ðŸ”® \*\*Predict\*\*    | Identify emerging risks                     |
+| 🔮 \*\*Predict\*\*    | Identify emerging risks                     |
 
-| ðŸ” \*\*Explain\*\*    | Identify contributing/root causes           |
+| 🔍 \*\*Explain\*\*    | Identify contributing/root causes           |
 
-| ðŸ§ª \*\*Simulate\*\*   | Explore alternative scenarios               |
+| 🧪 \*\*Simulate\*\*   | Explore alternative scenarios               |
 
-| ðŸŽ¯ \*\*Decide\*\*     | Generate an actionable recommendation       |
+| 🎯 \*\*Decide\*\*     | Generate an actionable recommendation       |
 
-| ðŸ‘¤ \*\*Verify\*\*     | Keep humans in the approval loop            |
+| 👤 \*\*Verify\*\*     | Keep humans in the approval loop            |
 
-| â™»ï¸ \*\*Recover\*\*    | Track recovery and resilience               |
+| ♻️ \*\*Recover\*\*    | Track recovery and resilience               |
 
 
 
@@ -313,7 +304,7 @@ The platform connects industrial data, AI intelligence, simulation and decision 
 
 
 
-\# ðŸ”´ Failure \& Risk Intelligence
+\# 🔴 Failure \& Risk Intelligence
 
 
 
@@ -347,7 +338,7 @@ The objective is not simply to generate an alert, but to provide context around 
 
 
 
-\# ðŸ§  Root-Cause Intelligence
+\# 🧠 Root-Cause Intelligence
 
 
 
@@ -359,15 +350,15 @@ The \*\*Root-Cause Engine\*\* helps move from:
 
 SYMPTOM
 
-&#x20;  â†“
+&#x20;  ↓
 
 CONTRIBUTING FACTORS
 
-&#x20;  â†“
+&#x20;  ↓
 
 ROOT-CAUSE SIGNALS
 
-&#x20;  â†“
+&#x20;  ↓
 
 SYSTEM IMPACT
 
@@ -383,7 +374,7 @@ This gives decision-makers more context before considering an intervention.
 
 
 
-\# ðŸ•¸ï¸ Dependency \& Cascade Intelligence
+\# 🕸️ Dependency \& Cascade Intelligence
 
 
 
@@ -407,19 +398,19 @@ A problem in one machine can propagate through dependent assets and production p
 
 Machine A
 
-&#x20;  â†“
+&#x20;  ↓
 
 Machine B
 
-&#x20;  â†“
+&#x20;  ↓
 
 Production Line
 
-&#x20;  â†“
+&#x20;  ↓
 
 OEE
 
-&#x20;  â†“
+&#x20;  ↓
 
 Factory Output
 
@@ -451,7 +442,7 @@ This turns isolated machine alerts into \*\*system-level risk intelligence\*\*.
 
 
 
-\# ðŸ§ª Counterfactual Intelligence
+\# 🧪 Counterfactual Intelligence
 
 
 
@@ -509,7 +500,7 @@ This connects \*\*prediction with decision support\*\*.
 
 
 
-\# ðŸ‘¤ Human-Supervised Decision Center
+\# 👤 Human-Supervised Decision Center
 
 
 
@@ -529,19 +520,19 @@ PredictiveAI Forge follows a \*\*human-supervised decision model\*\*.
 
 AI RECOMMENDATION
 
-&#x20;       â†“
+&#x20;       ↓
 
 HUMAN REVIEW
 
-&#x20;       â†“
+&#x20;       ↓
 
 HUMAN APPROVAL
 
-&#x20;       â†“
+&#x20;       ↓
 
 ACTION
 
-&#x20;       â†“
+&#x20;       ↓
 
 VERIFICATION
 
@@ -557,7 +548,7 @@ The system is designed to support operational decision-making rather than silent
 
 
 
-\# ðŸ“Š OEE Intelligence
+\# 📊 OEE Intelligence
 
 
 
@@ -589,7 +580,7 @@ This helps connect individual machine events with broader factory performance.
 
 
 
-\# ðŸŒ± Sustainability Intelligence
+\# 🌱 Sustainability Intelligence
 
 
 
@@ -609,19 +600,19 @@ PredictiveAI Forge extends industrial intelligence into sustainability considera
 
 Machine Health
 
-&#x20;     â†“
+&#x20;     ↓
 
 Production Efficiency
 
-&#x20;     â†“
+&#x20;     ↓
 
 OEE
 
-&#x20;     â†“
+&#x20;     ↓
 
 Energy Considerations
 
-&#x20;     â†“
+&#x20;     ↓
 
 Sustainability Impact
 
@@ -637,7 +628,7 @@ This allows operational decisions to be viewed in a broader factory context.
 
 
 
-\# ðŸ§¾ Decision Trace
+\# 🧾 Decision Trace
 
 
 
@@ -649,31 +640,31 @@ Every important intelligence stage can be represented as a traceable decision fl
 
 Risk Detected
 
-&#x20;    â†“
+&#x20;    ↓
 
 Evidence Gathered
 
-&#x20;    â†“
+&#x20;    ↓
 
 Root Cause
 
-&#x20;    â†“
+&#x20;    ↓
 
 Dependency Analysis
 
-&#x20;    â†“
+&#x20;    ↓
 
 Scenario Simulation
 
-&#x20;    â†“
+&#x20;    ↓
 
 Recommendation
 
-&#x20;    â†“
+&#x20;    ↓
 
 Human Decision
 
-&#x20;    â†“
+&#x20;    ↓
 
 Verification
 
@@ -689,7 +680,7 @@ This provides a structured explanation of how the system moves from \*\*observat
 
 
 
-\# âœ… Verification Center
+\# ✅ Verification Center
 
 
 
@@ -701,15 +692,15 @@ The platform includes a verification stage after decision-making.
 
 DECISION
 
-&#x20;  â†“
+&#x20;  ↓
 
 EXPECTED OUTCOME
 
-&#x20;  â†“
+&#x20;  ↓
 
 OBSERVED RESULT
 
-&#x20;  â†“
+&#x20;  ↓
 
 VERIFICATION
 
@@ -725,81 +716,81 @@ This closes the loop instead of treating an AI recommendation as the final step.
 
 
 
-\# ðŸ­ End-to-End Industrial Decision Loop
+\# 🏭 End-to-End Industrial Decision Loop
 
 
 
 ```text
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚  FACTORY DATA   â”‚
+│  FACTORY DATA   │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚   PREDICTION    â”‚
+│   PREDICTION    │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚  ROOT CAUSE     â”‚
+│  ROOT CAUSE     │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚  DEPENDENCIES   â”‚
+│  DEPENDENCIES   │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚ CASCADE IMPACT  â”‚
+│ CASCADE IMPACT  │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚ WHAT-IF LAB     â”‚
+│ WHAT-IF LAB     │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚ DECISION        â”‚
+│ DECISION        │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚ HUMAN APPROVAL  â”‚
+│ HUMAN APPROVAL  │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”¬â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└────────┬────────┘
 
-&#x20;        â†“
+&#x20;        ↓
 
-â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+┌─────────────────┐
 
-â”‚ VERIFICATION    â”‚
+│ VERIFICATION    │
 
-â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+└─────────────────┘
 
 ```
 
@@ -809,7 +800,7 @@ This closes the loop instead of treating an AI recommendation as the final step.
 
 
 
-\# ðŸ› ï¸ Technology Stack
+\# 🛠️ Technology Stack
 
 
 
@@ -881,7 +872,7 @@ This closes the loop instead of treating an AI recommendation as the final step.
 
 
 
-\# ðŸ“ Project Structure
+\# 📁 Project Structure
 
 
 
@@ -889,45 +880,45 @@ This closes the loop instead of treating an AI recommendation as the final step.
 
 PredictiveAI-Forge/
 
-â”‚
+│
 
-â”œâ”€â”€ assets/
+├── assets/
 
-â”‚   â”œâ”€â”€ hero.png
+│   ├── hero.png
 
-â”‚   â”œâ”€â”€ dashboard.png
+│   ├── dashboard.png
 
-â”‚   â”œâ”€â”€ architecture.png
+│   ├── architecture.png
 
-â”‚   â”œâ”€â”€ workflow.png
+│   ├── workflow.png
 
-â”‚   â”œâ”€â”€ cascade-graph.png
+│   ├── cascade-graph.png
 
-â”‚   â”œâ”€â”€ counterfactual.png
+│   ├── counterfactual.png
 
-â”‚   â”œâ”€â”€ decision-center.png
+│   ├── decision-center.png
 
-â”‚   â””â”€â”€ sustainability.png
+│   └── sustainability.png
 
-â”‚
+│
 
-â”œâ”€â”€ backend/
+├── backend/
 
-â”œâ”€â”€ data/
+├── data/
 
-â”œâ”€â”€ frontend/
+├── frontend/
 
-â”œâ”€â”€ ml/
+├── ml/
 
-â”œâ”€â”€ simulation/
+├── simulation/
 
-â”œâ”€â”€ snowflake/
+├── snowflake/
 
-â”‚
+│
 
-â”œâ”€â”€ README.md
+├── README.md
 
-â””â”€â”€ ...
+└── ...
 
 ```
 
@@ -937,7 +928,7 @@ PredictiveAI-Forge/
 
 
 
-\# ðŸŽ¯ Why PredictiveAI Forge?
+\# 🎯 Why PredictiveAI Forge?
 
 
 
@@ -949,11 +940,11 @@ Traditional predictive maintenance often follows:
 
 DATA
 
-&#x20;â†“
+&#x20;↓
 
 PREDICTION
 
-&#x20;â†“
+&#x20;↓
 
 ALERT
 
@@ -969,35 +960,35 @@ PredictiveAI Forge expands the workflow:
 
 DATA
 
-&#x20;â†“
+&#x20;↓
 
 PREDICTION
 
-&#x20;â†“
+&#x20;↓
 
 EXPLANATION
 
-&#x20;â†“
+&#x20;↓
 
 DEPENDENCY
 
-&#x20;â†“
+&#x20;↓
 
 CASCADE
 
-&#x20;â†“
+&#x20;↓
 
 SIMULATION
 
-&#x20;â†“
+&#x20;↓
 
 DECISION
 
-&#x20;â†“
+&#x20;↓
 
 HUMAN APPROVAL
 
-&#x20;â†“
+&#x20;↓
 
 VERIFICATION
 
@@ -1013,7 +1004,7 @@ The focus is therefore \*\*decision intelligence\*\*, not prediction alone.
 
 
 
-\# ðŸ” Responsible AI Principles
+\# 🔐 Responsible AI Principles
 
 
 
@@ -1021,51 +1012,17 @@ PredictiveAI Forge is designed around:
 
 
 
-\* ðŸ‘¤ Human supervision
+\* 👤 Human supervision
 
-\* ðŸ” Explainable analysis
+\* 🔍 Explainable analysis
 
-\* ðŸ§ª Scenario analysis
+\* 🧪 Scenario analysis
 
-\* âœ… Post-decision verification
+\* ✅ Post-decision verification
 
-\* ðŸ§¾ Decision traceability
+\* 🧾 Decision traceability
 
-\* âš™ï¸ Controlled operational decision support
-
-
-
-\---
-
-
-
-\# ðŸŽ¥ Demo
-
-
-
-A 2â€“5 minute demonstration can showcase:
-
-
-
-1\. ðŸ­ Dashboard overview
-
-2\. ðŸ”´ Machine risk
-
-3\. ðŸ§  Root-cause analysis
-
-4\. ðŸ•¸ï¸ Dependency/cascade graph
-
-5\. ðŸ§ª Counterfactual simulation
-
-6\. ðŸ“Š OEE intelligence
-
-7\. ðŸŒ± Sustainability intelligence
-
-8\. ðŸ‘¤ Decision Center
-
-9\. âœ… Verification Center
-
-10\. ðŸ§¾ Decision Trace
+\* ⚙️ Controlled operational decision support
 
 
 
@@ -1073,7 +1030,41 @@ A 2â€“5 minute demonstration can showcase:
 
 
 
-\# ðŸ† Hackathon Project
+\# 🎥 Demo
+
+
+
+A 2–5 minute demonstration can showcase:
+
+
+
+1\. 🏭 Dashboard overview
+
+2\. 🔴 Machine risk
+
+3\. 🧠 Root-cause analysis
+
+4\. 🕸️ Dependency/cascade graph
+
+5\. 🧪 Counterfactual simulation
+
+6\. 📊 OEE intelligence
+
+7\. 🌱 Sustainability intelligence
+
+8\. 👤 Decision Center
+
+9\. ✅ Verification Center
+
+10\. 🧾 Decision Trace
+
+
+
+\---
+
+
+
+\# 🏆 Hackathon Project
 
 
 
@@ -1101,7 +1092,7 @@ A 2â€“5 minute demonstration can showcase:
 
 
 
-\# ðŸ‘©â€ðŸ’» Built By
+\# 👩‍💻 Built By
 
 
 
@@ -1109,7 +1100,7 @@ A 2â€“5 minute demonstration can showcase:
 
 
 
-\*\*ECE Student â€¢ AI/ML â€¢ Embedded Systems â€¢ VLSI\*\*
+\*\*ECE Student • AI/ML • Embedded Systems • VLSI\*\*
 
 
 
@@ -1123,7 +1114,7 @@ https://github.com/snehassneha4578-collab
 
 
 
-\# âš¡ Final Vision
+\# ⚡ Final Vision
 
 
 
@@ -1135,8 +1126,7 @@ https://github.com/snehassneha4578-collab
 
 
 
-\### From Prediction â†’ To Industrial Decision Intelligence âš¡
-
+\### From Prediction → To Industrial Decision Intelligence ⚡
 
 
 
