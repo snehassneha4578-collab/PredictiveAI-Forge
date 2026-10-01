@@ -1,3 +1,7 @@
+[🚀 Live Dashboard](https://predictive-ai-forge.netlify.app)
+
+[📦 GitHub Repository](https://github.com/snehassneha4578-collab/PredictiveAI-Forge)
+
 \# ⚡ PREDICTIVEAI FORGE
 
 
